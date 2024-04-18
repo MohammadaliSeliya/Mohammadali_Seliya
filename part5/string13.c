@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char s1[100] = "akramali";
+    char s1[100] = "mohammadali";
     char s2[] = " akbarali";
     int length, j;
 
